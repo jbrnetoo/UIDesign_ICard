@@ -13,7 +13,8 @@ namespace UIDesign_ICard
 {
     public partial class Form1 : Form
     {
-
+        int valueP = 30;
+        int valueT = 0;
         int mouseX = 0;
         int mouseY = 0;
         bool mouseDown;
@@ -123,6 +124,60 @@ namespace UIDesign_ICard
                 maximizeButton.Image = Resources.MaximizedBlack;
             }
 
+        }
+
+        private void bunifuImageButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuThinButton21_Click(object sender, EventArgs e)
+        {
+            this.timer1.Start();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            valueP+=2;
+            bunifuCircleProgressbar1.Value = valueP;
+            if(bunifuCircleProgressbar1.Value >= 100)
+            {
+                bunifuCircleProgressbar1.Value = 0;
+                timer1.Stop();
+                MessageBox.Show("Valor é 100", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void bunifuThinButton22_Click(object sender, EventArgs e)
+        {
+            this.timer2.Start();
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            valueT += 2;
+            bunifuGauge1.Value = valueT;
+            if (bunifuGauge1.Value >= 100)
+            {
+                bunifuGauge1.Value = 0;
+                timer2.Stop();
+                MessageBox.Show("Valor é 100", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void checkBox5_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label16_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuProgressBar1_progressChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }
