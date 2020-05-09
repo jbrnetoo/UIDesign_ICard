@@ -1,0 +1,16 @@
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\UiDesign_JoeCard.exe.config
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\UiDesign_JoeCard.exe
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\UiDesign_JoeCard.pdb
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\Animator.dll
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Debug\UiDesign_JoeCard.Form1.resources
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Debug\UiDesign_JoeCard.Properties.Resources.resources
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Debug\UiDesign_JoeCard.csproj.GenerateResource.Cache
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Debug\UiDesign_JoeCard.exe
+c:\users\jbrnetoo\documents\visual studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Debug\UiDesign_JoeCard.pdb
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\MetroFramework.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Debug\UiDesign_JoeCard.exe.config
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Debug\UiDesign_JoeCard.exe
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Debug\UiDesign_JoeCard.pdb

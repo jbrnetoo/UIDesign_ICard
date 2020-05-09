@@ -1,0 +1,10 @@
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Release\UiDesign_JoeCard.exe.config
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Release\UiDesign_JoeCard.exe
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Release\UiDesign_JoeCard.pdb
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Release\Animator.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.Form1.resources
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.Properties.Resources.resources
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.csproj.GenerateResource.Cache
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.exe
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.pdb
