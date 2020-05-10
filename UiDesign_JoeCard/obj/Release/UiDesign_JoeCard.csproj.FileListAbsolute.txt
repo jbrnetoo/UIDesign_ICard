@@ -8,3 +8,16 @@ C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesig
 C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.csproj.GenerateResource.Cache
 C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.exe
 C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UiDesign_JoeCard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.pdb
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Release\UiDesign_JoeCard.exe.config
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.exe
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.pdb
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Release\UiDesign_JoeCard.exe
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Release\UiDesign_JoeCard.pdb
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Release\Animator.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Release\MetroFramework.Design.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Release\MetroFramework.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.csprojResolveAssemblyReference.cache
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.HomeBoard.resources
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.Properties.Resources.resources
+C:\Users\Jbrnetoo\Documents\Visual Studio 2015\Projects\UIDesign_ICard\UiDesign_JoeCard\obj\Release\UiDesign_JoeCard.csproj.GenerateResource.Cache

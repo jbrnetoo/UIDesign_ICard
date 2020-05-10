@@ -11,9 +11,9 @@ using UiDesign_JoeCard.Properties;
 
 namespace UiDesign_JoeCard
 {
-    public partial class Form1 : Form
+    public partial class HomeBoard : Form
     {
-        public Form1()
+        public HomeBoard()
         {
             InitializeComponent();
         }
@@ -113,6 +113,11 @@ namespace UiDesign_JoeCard
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void bunifuProgressBar1_progressChanged(object sender, EventArgs e)
         {
 
         }

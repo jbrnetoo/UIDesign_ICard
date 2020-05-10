@@ -72,16 +72,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="HomeBoard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="HomeBoard.Designer.cs">
+      <DependentUpon>HomeBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginBoard.Designer.cs">
+      <DependentUpon>LoginBoard.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="HomeBoard.resx">
+      <DependentUpon>HomeBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginBoard.resx">
+      <DependentUpon>LoginBoard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -119,11 +128,16 @@
     <Content Include="Assets\CloseWhite2.png" />
     <Content Include="Assets\Completed.png" />
     <Content Include="Assets\Loading.png" />
+    <Content Include="Assets\LoadingGif.gif" />
     <Content Include="Assets\LogoAtosCapital.png" />
     <Content Include="Assets\MaximizedBlack.png" />
     <Content Include="Assets\Minimize.png" />
     <Content Include="Assets\Minimize2.png" />
+    <Content Include="Assets\password.png" />
     <Content Include="Assets\Person.png" />
+    <Content Include="Assets\shutdown.png" />
+    <Content Include="Assets\shutdown_red.png" />
+    <Content Include="Assets\userIcon.png" />
     <None Include="Resources\CloseWhite.png" />
     <None Include="Resources\CloseBlack.png" />
     <None Include="Resources\Person.png" />
